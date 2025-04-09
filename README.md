@@ -1,5 +1,8 @@
 Digital Footprint tracker
 
+## License
+This project is licensed under the terms of the Hippocratic License 3.0. See the [LICENSE](./LICENSE) file for details.
+
 
 ## How to run locally
 Designed to be maximally easily
